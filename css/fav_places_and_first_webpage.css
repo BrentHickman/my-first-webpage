@@ -1,5 +1,4 @@
 
-
 .header1 {
   color: red;
   text-align: center;
@@ -17,3 +16,18 @@ p {
   padding: 10px;
 }
 
+img {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a {
+  display: block;
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
